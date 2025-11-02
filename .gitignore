@@ -1,5 +1,6 @@
 # Ignore data files
-src/board_games.csv
+data/*
+!data/.gitkeep
 
 # Ignore system files
 .DS_Store
