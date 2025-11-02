@@ -1,0 +1,9 @@
+# Ignore data files
+src/board_games.csv
+
+# Ignore system files
+.DS_Store
+
+# Ignore backup or temp files
+*.log
+*.tmp
